@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_crm_brand_tag,access_crm_brand_tag,model_crm_brand_tag,,1,0,0,0
+access_crm_vertical_tag,access_crm_vertical_tag,model_crm_vertical_tag,,1,0,0,0
+access_crm_brand_tag_admin,access_crm_brand_tag,model_crm_brand_tag,sale_custom_tag_admin_group,1,1,1,1
+access_crm_vertical_tag_admin,access_crm_vertical_tag,model_crm_vertical_tag,sale_custom_tag_admin_group,1,1,1,1
